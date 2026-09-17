@@ -58,13 +58,6 @@ Sobre el fork privado del proyecto:
 | sdk-dataview *(privado)* | SDK para consultar datos de DataView desde base de datos | Python |
 | [automatizacion-noticias](https://github.com/agusPatrito/automatizacion-noticias) | Envío automático de resumen de noticias con GitHub Actions | Python |
 
-### 📊 Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-agus-ea98.vercel.app/api?username=agusPatrito&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats-agus-ea98.vercel.app/api/top-langs/?username=agusPatrito&layout=compact&hide_border=true&count_private=true" />
-</p>
-
 ### 📫 Contacto
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aguspatrito@gmail.com)

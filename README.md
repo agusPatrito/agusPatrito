@@ -35,6 +35,7 @@ Sobre el fork privado del proyecto:
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -53,19 +54,15 @@ Sobre el fork privado del proyecto:
 |---|---|---|
 | [RIVeR](https://github.com/oruscam/RIVeR) | Toolkit LSPIV open-source para caudal fluvial por video (⭐ 49) | Python, Electron, React, Numba, PyTorch |
 | river-private *(privado, en equipo)* | Fork privado de RIVeR: pipelines STIV/iWave y worker cloud en AWS | Python, TypeScript, PyTorch, AWS |
-| dataview-back *(privado, en equipo)* | Backend/API de DataView, consumido por el worker de procesamiento de video | Python |
+| dataview-back *(privado, en equipo)* | Backend/API de DataView, consumido por el worker de procesamiento de video | Python, Django |
 | sdk-dataview *(privado)* | SDK para consultar datos de DataView desde base de datos | Python |
 | [automatizacion-noticias](https://github.com/agusPatrito/automatizacion-noticias) | Envío automático de resumen de noticias con GitHub Actions | Python |
 
 ### 📊 Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=agusPatrito&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusPatrito&layout=compact&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agusPatrito&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-agus-ea98.vercel.app/api?username=agusPatrito&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-agus-ea98.vercel.app/api/top-langs/?username=agusPatrito&layout=compact&hide_border=true&count_private=true" />
 </p>
 
 ### 📫 Contacto

@@ -13,9 +13,9 @@
 
 ### 🔭 En qué estoy trabajando
 
-Soy contribuidor de **[RIVeR](https://github.com/oruscam/RIVeR)** (⭐ 49), un toolkit open-source de LSPIV (*Large-Scale Particle Image Velocimetry*) para medir caudal y velocidad superficial de ríos a partir de video — usado por hidrólogos e investigadores. Es una app de escritorio (Electron + React) que orquesta un backend Python de cómputo pesado (PIV con Numba JIT, transformaciones de cámara, redes neuronales).
+Trabajo en **[RIVeR](https://github.com/oruscam/RIVeR)** (⭐ 49), un toolkit open-source de LSPIV (*Large-Scale Particle Image Velocimetry*) para medir caudal y velocidad superficial de ríos a partir de video — usado por hidrólogos e investigadores. Es una app de escritorio (Electron + React) que orquesta un backend Python de cómputo pesado (PIV con Numba JIT, transformaciones de cámara, redes neuronales).
 
-Últimos aportes:
+Sobre el fork privado del proyecto:
 - Integración de **STIV** (Space-Time Image Velocimetry con CNN) e **iWave** (análisis espectral) como pipelines alternativos al PIV clásico, más un orquestador que corre todo en una sola pasada.
 - **river-batch**: worker desatendido en AWS (SQS + EC2 + CodeDeploy) que procesa videos de forma automática y publica resultados a una API — mi entrada al lado de infraestructura/cloud.
 - CI/CD para builds multiplataforma (.deb/.rpm/.exe/.dmg) con PyInstaller + GitHub Actions.
@@ -52,10 +52,10 @@ Soy contribuidor de **[RIVeR](https://github.com/oruscam/RIVeR)** (⭐ 49), un t
 | Proyecto | Descripción | Stack |
 |---|---|---|
 | [RIVeR](https://github.com/oruscam/RIVeR) | Toolkit LSPIV open-source para caudal fluvial por video (⭐ 49) | Python, Electron, React, Numba, PyTorch |
-| [sdk-dataview](https://github.com/agusPatrito/sdk-dataview) | SDK para consultar datos de DataView desde base de datos | Python |
-| [charuco-camera-calibration](https://github.com/agusPatrito/charuco-camera-calibration) | Calibración de cámara con tablero ChArUco | Python, OpenCV |
+| river-private *(privado, en equipo)* | Fork privado de RIVeR: pipelines STIV/iWave y worker cloud en AWS | Python, TypeScript, PyTorch, AWS |
+| dataview-back *(privado, en equipo)* | Backend/API de DataView, consumido por el worker de procesamiento de video | Python |
+| sdk-dataview *(privado)* | SDK para consultar datos de DataView desde base de datos | Python |
 | [automatizacion-noticias](https://github.com/agusPatrito/automatizacion-noticias) | Envío automático de resumen de noticias con GitHub Actions | Python |
-| [PortFolio](https://github.com/agusPatrito/PortFolio) | Portfolio personal | JavaScript, HTML, CSS |
 
 ### 📊 Stats
 
